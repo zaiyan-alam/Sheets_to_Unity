@@ -26,6 +26,8 @@ public class Client : MonoBehaviour
             {
                 Debug.Log(www.error);
             }
+
+
             else
             {
                 if (www.isDone)
